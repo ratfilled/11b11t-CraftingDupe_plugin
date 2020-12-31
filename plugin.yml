@@ -1,0 +1,6 @@
+name: dupeplugin
+main: me.bait.plugins.dupe
+version: 1.1.2p
+api-version: 1.16
+author: io.github.izdabait
+description: enables the 1.12 dupe
